@@ -1,0 +1,53 @@
+baseURL = "https://invest-lab.bmsystems.biz/"
+locale = "ko-KR"
+title = "InvestLab"
+theme = "PaperMod"
+defaultContentLanguage = "ko"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+
+[pagination]
+  pagerSize = 10
+
+[params]
+  env = "production"
+  title = "InvestLab"
+  description = "AI 기반 투자 정보 블로그"
+  author = "InvestLab"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  ShowWordCount = false
+  comments = false
+
+  [params.homeInfoParams]
+    Title = "InvestLab"
+    Content = "AI가 분석하는 최신 투자 정보와 시장 트렌드"
+
+  [params.socialIcons]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "홈"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    name = "아티클"
+    url = "/posts/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
