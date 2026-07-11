@@ -10,7 +10,6 @@ canonical: "https://test.example.com/etf-mrggzm21"
 json_ld: {"@context":"https://schema.org","@type":"BlogPosting","headline":"국내상장 미국지수추종 ETF 투자전략: 포트폴리오 구축하기","description":"국내상장 미국지수추종 ETF를 활용한 성공적인 투자전략과 포트폴리오 구축 방법을 알아보세요.","url":"https://test.example.com/etf-mrggzm21","datePublished":"2026-07-11T14:39:15.083Z","dateModified":"2026-07-11T14:39:15.083Z","author":{"@type":"Organization","name":"test.example.com"}}
 ---
 
-```markdown
 # 국내상장 미국지수추종 ETF 투자전략: 성공적인 포트폴리오 구축하기
 
 ## 국내상장 미국지수추종 ETF란?
@@ -75,4 +74,3 @@ S&P 500 ETF는 미국의 500대 기업에 투자하는 대표적인 ETF입니다
 
 ### 지속적인 학습과 정보 업데이트
 투자 시장은 지속적으로 변화하고 있습니다. 따라서 최신 정보를 확인하고 지속적으로 학습하는 것이 필수적입니다. 다양한 투자 전략과 시장 동향을 연구하여, 보다 나은 투자 결정을 내리도록 노력해야 합니다. 궁극적으로는 이러한 투자전략을 통해 성공적인 포트폴리오를 구축할 수 있을 것입니다.
-```
