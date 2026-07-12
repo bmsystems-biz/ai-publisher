@@ -1,11 +1,11 @@
 ---
-title: "ESG ETF 추천 리스트, "지속 가능한 투자: ESG ETF로 미래를 준비하세요","
+title: "ESG ETF 추천 리스트, \"지속 가능한 투자: ESG ETF로 미래를 준비하세요\","
 description: "2026년 최고의 ESG ETF 추천 리스트를 확인하고, 지속 가능한 투자로 미래를 준비하세요. 초보자를 위한 필수 팁도 제공합니다."
-date: "2026-07-12T14:02:57.318Z"
+date: "2026-07-12T15:38:19.375Z"
 slug: "2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h"
 keywords: [""]
 categories: ["주식"]
-og_title: "ESG ETF 추천 리스트, "지속 가능한 투자: ESG ETF로 미래를 준비하세요","
+og_title: "ESG ETF 추천 리스트, \"지속 가능한 투자: ESG ETF로 미래를 준비하세요\","
 og_description: "ESG ETF란 무엇인지, 중요성과 추천 리스트를 통해 친환경 투자로 수익을 올리는 방법을 알아보세요."
 canonical: "https://invest-lab.bmsystems.biz/2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h"
 json_ld: {"@context":"https://schema.org","@type":"BlogPosting","headline":"2026년 최고의 ESG ETF 추천 리스트 | 지속 가능한 투자","description":"2026년 최고의 ESG ETF 추천 리스트를 확인하고, 지속 가능한 투자로 미래를 준비하세요. 초보자를 위한 필수 팁도 제공합니다.","url":"https://invest-lab.bmsystems.biz/2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h","datePublished":"2026-07-12T13:41:58.643Z","dateModified":"2026-07-12T13:41:58.643Z","author":{"@type":"Organization","name":"invest-lab.bmsystems.biz"}}
