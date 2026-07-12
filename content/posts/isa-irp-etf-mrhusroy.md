@@ -1,7 +1,7 @@
 ---
 title: "ISA와 IRP, 연금저축으로 해외지수 ETF 투자하기"
 description: "ISA, IRP, 연금저축을 활용한 해외지수 ETF 투자 전략과 세제 혜택을 알아보세요. 효과적인 투자 방법을 제시합니다."
-date: "2026-07-12T15:16:40.579Z"
+date: "2026-07-12T15:23:58.205Z"
 slug: "isa-irp-etf-mrhusroy"
 keywords: [""]
 categories: ["주식"]
