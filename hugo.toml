@@ -40,7 +40,7 @@ buildFuture = true
     weight = 1
   [[menu.main]]
     identifier = "posts"
-    name = "아티클"
+    name = "전체 아티클"
     url = "/posts/"
     weight = 2
 
