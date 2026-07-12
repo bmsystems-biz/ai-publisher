@@ -1,7 +1,7 @@
 ---
 title: "ESG 반도체 ETF 투자: 지속 가능한 미래를 위한 완벽 가이드"
 description: "ESG 반도체 ETF 투자에 대한 정의, 장점, 전략을 포괄적으로 다룬 완벽 가이드. 지속 가능한 미래를 위한 현명한 투자 방법을 알아보세요."
-date: "2026-07-12T13:46:33.982Z"
+date: "2026-07-12T15:21:56.844Z"
 slug: "esg-etf-mrhu7be1"
 keywords: [""]
 categories: ["주식"]
