@@ -1,7 +1,7 @@
 ---
 title: "반도체 ETF 투자 리스크 완벽 가이드: 안전하게 투자하는 법"
 description: "반도체 ETF 투자 리스크를 이해하고 안전하게 투자하는 법을 알아보세요. 반도체 산업의 중요성과 ETF의 장단점도 설명합니다."
-date: "2026-07-12T13:48:15.338Z"
+date: "2026-07-12T14:05:50.872Z"
 slug: "etf-mrhucyre"
 keywords: [""]
 categories: ["주식"]
