@@ -1,7 +1,7 @@
 ---
 title: "AI와 반도체 ETF 투자: 시장의 미래를 선도하는 전략"
 description: "AI와 반도체 ETF 투자에 대한 깊이 있는 분석과 시장 전망, 투자 전략을 알아보세요. 미래 투자 기회를 선도하는 방법을 제시합니다."
-date: "2026-07-12T13:48:48.914Z"
+date: "2026-07-12T14:03:18.527Z"
 slug: "ai-etf-mrhud8eu"
 keywords: [""]
 categories: ["주식"]
