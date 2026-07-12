@@ -5,10 +5,6 @@ date: "2026-07-12T13:50:10.583Z"
 slug: "2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20ESG%20ETF%20%EC%B6%94%EC%B2%9C%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "ESG ETF 추천 리스트, "지속 가능한 투자: ESG ETF로 미래를 준비하세요","
-  relative: false
 og_title: "ESG ETF 추천 리스트, "지속 가능한 투자: ESG ETF로 미래를 준비하세요","
 og_description: "ESG ETF란 무엇인지, 중요성과 추천 리스트를 통해 친환경 투자로 수익을 올리는 방법을 알아보세요."
 canonical: "https://invest-lab.bmsystems.biz/2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h"
