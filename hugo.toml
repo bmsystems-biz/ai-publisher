@@ -68,11 +68,6 @@ buildFuture = true
     name = "노후대비"
     url = "/categories/노후대비/"
     weight = 14
-  [[menu.main]]
-    identifier = "cat-영화"
-    name = "영화"
-    url = "/categories/영화/"
-    weight = 15
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
