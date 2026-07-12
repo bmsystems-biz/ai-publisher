@@ -5,10 +5,6 @@ date: "2026-07-12T13:49:42.714Z"
 slug: "etf-mrhudv7e"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20ETF%20%EB%A6%AC%EB%B0%B8%EB%9F%B0%EC%8B%B1%20%EC%A0%84%EB%9E%B5%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "최신 ETF 리밸런싱 전략: 수익 극대화를 위한 필수 가이드"
-  relative: false
 og_title: "최신 ETF 리밸런싱 전략: 수익 극대화를 위한 필수 가이드"
 og_description: "ETF 리밸런싱의 중요성과 최신 전략을 통해 효과적인 투자 결정을 내리는 방법을 소개합니다."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrhudv7e"
