@@ -29,4 +29,4 @@ url: "/terms/"
 
 ## 제6조 (문의)
 
-이용약관 관련 문의: contact@invest-lab.bmsystems.biz
+이용약관 관련 문의: bmsystems.biz@gmail.com
