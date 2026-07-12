@@ -13,7 +13,7 @@ buildFuture = true
 [params]
   env = "production"
   title = "InvestLab"
-  description = "AI 기반 투자 정보 블로그"
+  description = "투자 재테크 정보 블로그"
   author = "InvestLab"
   defaultTheme = "auto"
   ShowReadingTime = true
@@ -28,7 +28,7 @@ buildFuture = true
 
   [params.homeInfoParams]
     Title = "InvestLab"
-    Content = "AI가 분석하는 최신 투자 정보와 시장 트렌드"
+    Content = "최신 투자 재테크 정보와 시장 트렌드"
 
   [params.socialIcons]
 
