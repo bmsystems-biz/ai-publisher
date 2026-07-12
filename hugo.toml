@@ -43,6 +43,36 @@ buildFuture = true
     name = "전체 아티클"
     url = "/posts/"
     weight = 2
+  [[menu.main]]
+    identifier = "cat-주식"
+    name = "주식"
+    url = "/categories/주식/"
+    weight = 10
+  [[menu.main]]
+    identifier = "cat-부동산"
+    name = "부동산"
+    url = "/categories/부동산/"
+    weight = 11
+  [[menu.main]]
+    identifier = "cat-세금"
+    name = "세금"
+    url = "/categories/세금/"
+    weight = 12
+  [[menu.main]]
+    identifier = "cat-연금"
+    name = "연금"
+    url = "/categories/연금/"
+    weight = 13
+  [[menu.main]]
+    identifier = "cat-노후대비"
+    name = "노후대비"
+    url = "/categories/노후대비/"
+    weight = 14
+  [[menu.main]]
+    identifier = "cat-영화"
+    name = "영화"
+    url = "/categories/영화/"
+    weight = 15
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
