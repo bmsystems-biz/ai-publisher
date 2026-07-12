@@ -37,4 +37,4 @@ url: "/cookies/"
 
 ## 문의
 
-쿠키 관련 문의: contact@invest-lab.bmsystems.biz
+쿠키 관련 문의: bmsystems.biz@gmail.com
