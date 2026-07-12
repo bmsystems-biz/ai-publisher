@@ -1,7 +1,7 @@
 ---
 title: "ESG ETF 추천 리스트, "지속 가능한 투자: ESG ETF로 미래를 준비하세요","
 description: "2026년 최고의 ESG ETF 추천 리스트를 확인하고, 지속 가능한 투자로 미래를 준비하세요. 초보자를 위한 필수 팁도 제공합니다."
-date: "2026-07-12T13:50:10.583Z"
+date: "2026-07-12T14:02:57.318Z"
 slug: "2026-esg-etf-esg-etf-esg-etf-esg-etf-esg-etf-mrhudt0h"
 keywords: [""]
 categories: ["주식"]
