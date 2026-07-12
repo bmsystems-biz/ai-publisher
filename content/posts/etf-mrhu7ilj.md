@@ -5,10 +5,6 @@ date: "2026-07-12T13:49:09.218Z"
 slug: "etf-mrhu7ilj"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20%EB%B0%98%EB%8F%84%EC%B2%B4%20ETF%EC%99%80%20%EA%B8%B0%EC%88%A0%EC%A3%BC%20%EB%B9%84%EA%B5%90%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "반도체 ETF와 기술주 비교: 투자 전략의 새로운 지평"
-  relative: false
 og_title: "반도체 ETF와 기술주 비교: 투자 전략의 새로운 지평"
 og_description: "반도체 ETF와 기술주에 대한 심층 분석. 투자자들에게 제공하는 다양한 선택지와 전략을 알아보세요."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrhu7ilj"
