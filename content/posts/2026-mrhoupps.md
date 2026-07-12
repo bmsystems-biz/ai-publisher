@@ -1,11 +1,11 @@
 ---
-title: "2026년 연령대별 성장주 및 배당주 투자 전략 가이드"
+title: "20대·30대·40대 투자 전략은 어떻게 달라야 할까? 성장주와 배당주 선택 기준"
 description: "2026년 투자 환경 변화에 따른 연령대별 성장주와 배당주 투자 전략을 완벽히 이해하고 재무 목표를 달성하세요."
-date: "2026-07-12T12:57:22.050Z"
+date: "2026-07-12T13:01:41.259Z"
 slug: "2026-mrhoupps"
 keywords: [""]
 categories: ["주식"]
-og_title: "2026년 연령대별 성장주와 배당주 투자 전략 완벽 가이드"
+og_title: "20대·30대·40대 투자 전략은 어떻게 달라야 할까? 성장주와 배당주 선택 기준"
 og_description: "각 연령대에 적합한 성장주와 배당주 투자 전략을 제시하며, 성공적인 자산 관리를 위한 필수 정보를 제공합니다."
 canonical: "https://invest-lab.bmsystems.biz/2026-mrhoupps"
 json_ld: {"@context":"https://schema.org","@type":"BlogPosting","headline":"2026년 연령대별 성장주 및 배당주 투자 전략 가이드","description":"2026년 투자 환경 변화에 따른 연령대별 성장주와 배당주 투자 전략을 완벽히 이해하고 재무 목표를 달성하세요.","url":"https://invest-lab.bmsystems.biz/2026-mrhoupps","datePublished":"2026-07-12T11:07:10.864Z","dateModified":"2026-07-12T11:07:10.864Z","author":{"@type":"Organization","name":"invest-lab.bmsystems.biz"}}
