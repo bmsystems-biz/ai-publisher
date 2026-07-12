@@ -5,10 +5,6 @@ date: "2026-07-12T13:46:33.982Z"
 slug: "esg-etf-mrhu7be1"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20ESG%20%EB%B0%98%EB%8F%84%EC%B2%B4%20ETF%20%ED%88%AC%EC%9E%90%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "ESG 반도체 ETF 투자: 지속 가능한 미래를 위한 완벽 가이드"
-  relative: false
 og_title: "ESG 반도체 ETF 투자: 지속 가능한 미래를 위한 완벽 가이드"
 og_description: "ESG 반도체 ETF 투자에 대한 모든 것을 알아보세요. 정의, 장점, 투자 전략 및 추천 ETF를 포함한 포괄적인 가이드입니다."
 canonical: "https://invest-lab.bmsystems.biz/esg-etf-mrhu7be1"
