@@ -5,10 +5,6 @@ date: "2026-07-12T13:36:14.844Z"
 slug: "etf-mrhu5b9h"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20%EA%B8%80%EB%A1%9C%EB%B2%8C%20%EB%B0%98%EB%8F%84%EC%B2%B4%20ETF%20%EC%84%B1%EA%B3%BC%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "글로벌 반도체 ETF 성과, 투자자들이 주목하는 이유"
-  relative: false
 og_title: "글로벌 반도체 ETF 성과, 투자자들이 주목하는 이유"
 og_description: "반도체 산업의 혁신과 성장, 그리고 글로벌 반도체 ETF의 성과에 대한 투자자들의 관심을 살펴보세요."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrhu5b9h"
