@@ -4,10 +4,7 @@ description: "반도체 ETF 투자 리스크를 이해하고 안전하게 투자
 date: "2026-07-12T13:48:15.338Z"
 slug: "etf-mrhucyre"
 keywords: [""]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20%EB%B0%98%EB%8F%84%EC%B2%B4%20ETF%20%ED%88%AC%EC%9E%90%20%EB%A6%AC%EC%8A%A4%ED%81%AC%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "반도체 ETF 투자 리스크 완벽 가이드: 안전하게 투자하는 법"
-  relative: false
+categories: ["주식"]
 og_title: "반도체 ETF 투자 리스크 완벽 가이드: 안전하게 투자하는 법"
 og_description: "반도체 ETF의 정의와 장단점을 통해 안전한 투자 방법을 제시합니다. 반도체 산업의 중요성도 함께 알아보세요."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrhucyre"
