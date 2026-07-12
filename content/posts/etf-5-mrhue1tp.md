@@ -5,10 +5,6 @@ date: "2026-07-12T13:51:17.868Z"
 slug: "etf-5-mrhue1tp"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20%EC%9D%B8%EA%B8%B0%EC%9E%88%EB%8A%94%20%ED%95%B4%EC%99%B8%20ETF%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "인기있는 해외 ETF, 투자자들이 반드시 알아야 할 5가지"
-  relative: false
 og_title: "인기있는 해외 ETF, 투자자들이 반드시 알아야 할 5가지"
 og_description: "해외 ETF에 대한 모든 것을 알아보세요. 투자자들이 꼭 알아야 할 5가지 포인트를 정리했습니다."
 canonical: "https://invest-lab.bmsystems.biz/etf-5-mrhue1tp"
