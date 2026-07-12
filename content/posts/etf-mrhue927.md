@@ -5,10 +5,6 @@ date: "2026-07-12T13:52:11.028Z"
 slug: "etf-mrhue927"
 keywords: [""]
 categories: ["주식"]
-cover:
-  image: "https://image.pollinations.ai/prompt/Professional%20blog%20thumbnail%2C%20clean%20modern%20flat%20design%2C%20topic%3A%20ETF%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%20%EA%B5%AC%EC%84%B1%2C%20minimalist%20infographic%20style%2C%20blue%20and%20white%20color%20scheme%2C%20no%20text?width=1200&height=630&nologo=true&model=flux"
-  alt: "최고의 ETF 포트폴리오 구성 전략으로 안정적인 수익 올리기"
-  relative: false
 og_title: "최고의 ETF 포트폴리오 구성 전략으로 안정적인 수익 올리기"
 og_description: "오늘날 투자자들을 위한 ETF 포트폴리오 구성 전략을 소개합니다. 안정적인 수익을 추구하는 방법을 알아보세요."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrhue927"
