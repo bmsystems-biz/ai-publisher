@@ -1,9 +1,10 @@
 ---
 title: "반도체 ETF 성과 비교: 투자자에게 더 나은 선택은?"
 description: "반도체 ETF의 성과를 비교하고, 투자자들에게 최적의 펀드를 선택하는 방법을 알아보세요. 다양한 ETF의 특징과 분석을 제공합니다."
-date: "2026-07-13T13:09:30.999Z"
+date: "2026-07-13T13:23:19.640Z"
 slug: "etf-mrj8fk33"
 keywords: [""]
+categories: ["주식"]
 og_title: "반도체 ETF 성과 비교: 어떤 펀드가 투자자들에게 더 나은 선택일까?"
 og_description: "반도체 산업의 성장과 ETF 투자에 대한 분석. 주요 펀드의 성과와 투자 고려 요소를 살펴보세요."
 canonical: "https://invest-lab.bmsystems.biz/etf-mrj8fk33"
