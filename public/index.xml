@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>InvestLab</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on InvestLab</description>
+    <generator>Hugo</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Sat, 11 Jul 2026 14:53:27 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>국내상장 미국지수추종 ETF 투자전략: 포트폴리오 구축하기</title>
+      <link>http://localhost:1313/posts/etf-mrggzm21/</link>
+      <pubDate>Sat, 11 Jul 2026 14:53:27 +0000</pubDate>
+      <guid>http://localhost:1313/posts/etf-mrggzm21/</guid>
+      <description>국내상장 미국지수추종 ETF를 활용한 성공적인 투자전략과 포트폴리오 구축 방법을 알아보세요.</description>
+    </item>
+  </channel>
+</rss>
